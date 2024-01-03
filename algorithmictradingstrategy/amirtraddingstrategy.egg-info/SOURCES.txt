@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.txt
+setup.py
+amirtraddingstrategy/__init__.py
+amirtraddingstrategy.egg-info/PKG-INFO
+amirtraddingstrategy.egg-info/SOURCES.txt
+amirtraddingstrategy.egg-info/dependency_links.txt
+amirtraddingstrategy.egg-info/top_level.txt
